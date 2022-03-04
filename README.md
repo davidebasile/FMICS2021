@@ -5,7 +5,10 @@ Pdf: https://openportal.isti.cnr.it/data/2021/456088/2021_456088.preprint.pdf?id
 Video presentation: https://youtu.be/nGHfXi1vvg4
 
 
-Mapping between the formulas described in the paper and the models
+
+
+
+### Mapping between the formulas described in the paper and the models
 
 φ4, φ5, φ7, φ9, φ11, φ13, φ17, φ18, φ19, φ20 -> modelConfStandard
 
